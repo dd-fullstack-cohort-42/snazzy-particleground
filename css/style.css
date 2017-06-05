@@ -1,0 +1,39 @@
+/* Begin required styles */
+section {
+	height: 100vh;
+}
+
+#welcome {
+	position: absolute;
+	top: 60vh;
+	left: 3vh;
+	color: #fff;
+}
+
+#welcome {
+	position: absolute;
+	color: white;
+	top: 60vh;
+	left: 5vh;
+}
+
+/* begin theme styles - this CSS is not required */
+#particleground {
+	background-color: #000;
+}
+
+#section-2,
+#section-3 {
+	padding: 10rem 0;
+}
+
+#section-2 {
+	background-color: #9D1BB2;
+	color: #fff;
+}
+
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 2rem 0;
+}

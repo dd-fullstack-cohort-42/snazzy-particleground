@@ -40,7 +40,7 @@
 		<section id="particleground">
 			<div id="welcome">
 				<h1>This is Particleground</h1>
-				<p class="lead">View on GitHub</p>
+				<p class="lead">View on <a href="https://github.com/rlewis2892/snazzy-particleground" target="_blank">GitHub</a></p>
 			</div>
 		</section>
 
